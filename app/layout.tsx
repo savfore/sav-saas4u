@@ -1,5 +1,5 @@
 import { builder } from "@builder.io/sdk";
-import { Header } from "@/components/Layout/Header";
+import { Header } from "@/components/Layout/LocaleSelector";
 import "./globals.css";
 import Footer from "@/components/Layout/Footer";
 import { RenderBuilderContent } from "@/components/builder";

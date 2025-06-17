@@ -4,7 +4,7 @@ import { builder, Builder, withChildren } from "@builder.io/react";
 import { Button } from "./components/ui/button";
 import Counter from "./components/Counter/Counter";
 import Footer from "./components/Layout/Footer";
-import { Header } from "./components/Layout/Header";
+import { Header } from "./components/Layout/LocaleSelector";
 import HeroWithChildren from "./components/Hero/HeroWithChildren";
 import IconCard from "./components/Card/IconCard";
 import ImageHero from "./components/Hero/ImageHero";

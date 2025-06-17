@@ -1,0 +1,1 @@
+export { default as LocalePicker } from './components/LocalePicker';
